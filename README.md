@@ -1,4 +1,4 @@
-# 📦 Zepto-E-commerce-Sales-Delivery-Analysis-Project
+# 📦 Zepto-E-commerce-Sales-Delivery-Analysis-Project 🚚
 Zepto Sales Insights &amp; Delivery Optimization (Excel + SQL + Dashboard)
 
 This is a complete, real-world data analyst portfolio project based on an e-commerce inventory dataset scraped from [Zepto](https://www.zeptonow.com/) — one of India’s fastest-growing quick-commerce startups. This project simulates real analyst workflows, from raw data exploration to business-focused data analysis.
@@ -110,9 +110,8 @@ CREATE TABLE zepto (
 - Measured total inventory weight per product category
 
 
- **Open zepto_SQL_data_analysis.sql**
- 
-    Zepto-Sales-Analysis/
+ 📁 Folder Structure:
+     Zepto-Sales-Analysis/
 ├── data/
 │   ├── zepto_sales_data.xlsx
 │   └── zepto_orders.sql
